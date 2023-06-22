@@ -1,0 +1,11 @@
+# System Maintenance
+winget list
+diskpart
+
+# Network Info
+netstat -n
+ipconfig
+
+# WSL
+wsl --list --online
+wsl
